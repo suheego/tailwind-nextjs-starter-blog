@@ -9,7 +9,7 @@ const siteMetadata = {
   siteUrl: 'https://amber-go.vercel.app',
   siteRepo: 'https://github.com/suheego/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo.png',
-  // socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/twitter-card.png',
   // mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'dev.suhee@gmail.com',
   github: 'https://github.com/suheego',
