@@ -12,7 +12,7 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   // mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'dev.suhee@gmail.com',
-  github: 'https://github.com/suheego',
+  // github: 'https://github.com/suheego',
   // x: 'https://twitter.com/x',
   // twitter: 'https://twitter.com/Twitter',
   // facebook: 'https://facebook.com',
