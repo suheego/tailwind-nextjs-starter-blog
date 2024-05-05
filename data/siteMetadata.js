@@ -2,7 +2,7 @@
 const siteMetadata = {
   title: "Amber's Blog",
   author: 'Amber',
-  headerTitle: 'Amber',
+  headerTitle: "Amber's Blog",
   description: 'A blog about software engineering, web development, and more.',
   language: 'ko-KR',
   theme: 'system', // system, dark or light
